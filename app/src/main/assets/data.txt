@@ -1,0 +1,5 @@
+andar;3.0
+correr;5.2
+nadar;9.3
+bicicleta;6.3
+ir a la montaña de senderismo;6.8
